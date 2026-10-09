@@ -1,16 +1,13 @@
-## Hi there 👋
+I am a B.Tech graduate looking to start my career in software development.
 
-<!--
-**vipuladlak10-hub/vipuladlak10-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 I am currently strengthening my programming and problem-solving skills.
 
-Here are some ideas to get you started:
+- 🐍 Learning and practising Python and software development fundamentals.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🚀 Building projects to gain practical experience and improve my coding skills.
+
+- 📚 Interested in learning new technologies and developing useful applications.
+
+- 🤝 Open to collaborating on beginner-friendly projects and learning from other developers.
+
+- 🎯 Actively looking for entry-level Software Developer opportunities.
